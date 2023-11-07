@@ -1,0 +1,21 @@
+html,
+body {
+  background: #000;
+  margin: 0;
+  padding: 0;
+}
+
+#ui {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+}
+#skip_button {
+  margin: 3px;
+  border: 2px solid #000;
+  border-radius: 5px;
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+}
